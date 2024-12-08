@@ -10,4 +10,4 @@ This repository contains a simple Java program to create a colorful word cloud i
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/mriiidul/Word_Cloud)>
