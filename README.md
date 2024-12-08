@@ -1,7 +1,3 @@
-Here’s a full and detailed `README.md` for your project:
-
----
-
 # **CSE 64_K Word Cloud with Java**
 
 This repository contains a Java program that generates a colorful word cloud in the console. The word cloud is created using a list of names, randomized colors, and a structured pattern to produce visually appealing output.
